@@ -7,6 +7,8 @@ A backend API for a multi-role finance dashboard system built with **Go** and th
 
 ---
 
+http://localhost:8080/swagger/index.html
+
 ## Architecture Overview
 
 ```mermaid
