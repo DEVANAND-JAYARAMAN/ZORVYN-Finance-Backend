@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ZORVYN-Finance-Backend
 Zorvyn finance dashboard backend with JWT auth, role-based access control, financial records CRUD, dashboard analytics, validation, and Swagger docs.
 =======
@@ -297,4 +296,3 @@ The following was verified during development:
 5. **Rate limiting is global**: A single server-wide limiter is used for simplicity. Per-IP or per-user limiting would be more appropriate in production.
 
 6. **No refresh tokens**: The JWT is valid for 24 hours. Refresh token rotation was omitted to keep the implementation focused.
->>>>>>> 94bed9b (Initial commit)
